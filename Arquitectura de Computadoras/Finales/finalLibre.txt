@@ -1,0 +1,14 @@
+TEORIA
+1 - ¿ Porque el uso de Ieee754?
+2- ¿Por que el uso de RAM?
+3 - ¿ Que ventajas incorpora el DMA?
+4 - ¿Que ventajas tiene la RAID?
+
+
+PRACTICA
+1- Karnau con redundancia
+F(a,b,c,d) Sumatoria de (0,1,5,6) + R (9,10)
+
+2- 129h - 129|9, y el resultado expresar en Iee754-32 bits
+
+ORAL: RAID
